@@ -64,8 +64,6 @@ This project implements a *Machine Learning-based UPI Fraud Detection System* to
 ## *Contributing*
 Contributions are welcome! Feel free to open issues or submit pull requests.  
 
-## *License*
-This project is *MIT Licensed*. See LICENSE for details.  
 
 ---
 💡 *Developed as part of the NPCI Fintech Hackathon 🚀*
